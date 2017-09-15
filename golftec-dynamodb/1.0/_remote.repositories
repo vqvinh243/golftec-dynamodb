@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 16 16:31:25 ICT 2017
+golftec-dynamodb-1.0.pom>=
+golftec-dynamodb-1.0.jar>=
+golftec-dynamodb-1.0-jar-with-dependencies.jar>=
